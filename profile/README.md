@@ -3,4 +3,4 @@ An organization of friends meant for cracking, source leaking & deobfuscating va
 
 ### Members:
 - Liticane
-- Khonsari
+- Aureyuh
